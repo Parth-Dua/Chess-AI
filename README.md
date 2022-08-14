@@ -1,6 +1,8 @@
 # Chess-AI
 Won second position in Sanskriti School Project Beta 6.0 in 2022. 
 
+https://drive.google.com/drive/u/0/folders/1k6kgBQ_FIKxEN6LZProvFIDP0jJGMupI
+
 School Name: - K.R. Mangalam World School, Vikaspuri
 Team Members: - Pratham Chugh, Jashanveer Singh Arora, Kyna Rathaur, Parth Dua, Ansh Goel
 
